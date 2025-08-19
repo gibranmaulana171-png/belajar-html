@@ -5,7 +5,9 @@
             background-color: darkcyan;
             padding: 30px;
         }
-
+section{
+    margin-top: 30px;
+}
         header {
             background-color: rgb(126, 201, 204);
             padding: 15px;
@@ -106,4 +108,5 @@
             width: 500px;
             margin: auto;
             text-align: center;
+            border: box solid grey;
         }
